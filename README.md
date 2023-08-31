@@ -1,4 +1,4 @@
 - heyo, I'm shadow-dracat! (it/they/any)
 - artist, student, streamer
 - right now I'm going to use github for Hollow Knight toki pona translation. I might do actual programmer stuff in the future. maybe
-- wherever you can find me I'm under shadow_dracat
+- wherever you can find me I'm under shadow_dracat (or shadow-dracat is underscores aren't possible)
